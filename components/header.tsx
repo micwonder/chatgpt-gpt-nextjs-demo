@@ -32,7 +32,7 @@ export async function Header() {
         <ThemeToggle />
         <a
           target="_blank"
-          href="https://github.com/humanloop/chatbot-starter/"
+          href="https://chat.vercel.ai/"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
